@@ -1,6 +1,5 @@
 ## Reach me at jpere257@uic.edu
-## I'm currently learning C# and Unity
-## Very much open to learning more
+## I'm currently learning HTML, CSS, and JS
 
 <!--
 **SmoochiDaGucci/SmoochiDaGucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
